@@ -1,0 +1,40 @@
+.extra-large {
+    background-color: rgb(53, 155, 250);
+    height: 130px;
+    padding: 10px;
+}
+
+.large {
+    background-color: green;
+    border: 1px solid white;
+    height: 100%;
+    padding: 10px;
+}
+
+.medium {
+    background-color: blue;
+    border: 1px solid white;
+    height: 100%;
+    padding: 10px;
+}
+
+.small {
+    background-color: red;
+    border: 1px solid white;
+    height: 100%;
+    padding: 10px;
+}
+
+.extra-small {
+    background-color: yellow;
+    border: 1px solid white;
+    height: 100%;
+    padding: 10px;
+}
+
+.extra-extra-small {
+    background-color: purple;
+    border: 1px solid white;
+    height: 100%;
+    padding: 10px;
+}
